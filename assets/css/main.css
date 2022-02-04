@@ -457,7 +457,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			/* font-family: "Font Awesome 5 Brands"; */
+			/* font-family: "Font Awesome 5"; */
 			font-style: normal;
 			font-weight: 400;
 			text-transform: none !important;
@@ -537,9 +537,9 @@
 					ul.icons li a:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
-						/* font-family: "Font Awesome 5 Brands"; */
+						/* font-family: "Font Awesome 6 Brands"; */
 						font-style: normal;
-						font-weight: 400;
+						/* font-weight: 400; */
 						text-transform: none !important;
 						display: inline-block;
 						font-variant: normal;
